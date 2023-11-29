@@ -1300,5 +1300,4 @@ PRODUCT_PACKAGES += \
     com.fingerprints.extension \
     com.android.hotwordenrollment.common.util \
     manifest_android.hardware.drm@1.3-service.widevine \
-    vendor.qti.diag.hal.service \
     vendor.qti.gnss@4.0-service
